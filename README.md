@@ -10,7 +10,3 @@ Explorar e visualizar dados históricos e atuais de temperatura, chuva, vento e 
 - Streamlit (dashboard interativo)
 - Dados: INMET, CPTEC/INPE
 
-## 🚀 Como rodar
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/seuusuario/climabr.git
